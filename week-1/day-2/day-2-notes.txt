@@ -1,0 +1,25 @@
+Uses of list :
+    1. Used to store closely related data
+    2. Store the data where same operation is performed
+
+Lists and sets differences :
+    Lists:
+        List can be 2-D whereas a set can't.
+        As list are ordered
+        List are comparatively slow to execute whereas sets are fast.
+        Lists can store more than 1D data
+        Saves the values in the order of insertion
+        We can change the value of the element stored in the sets
+    Sets :
+        Sets are unordered
+        Faster than lists
+        Cannot store any n-d data 
+        Sets do not save elements in the order they are inserted.
+        We cannot change the value of the element stored in the sets
+
+Applications of Dictionary:
+    1.We use dictionary to store a single object details like a person details for example :in bank can be stored using dictionary
+    2.Query process is simple as we dont need to remember any indices
+    3.Dictionary can be easily Used to store data in databases 
+
+
